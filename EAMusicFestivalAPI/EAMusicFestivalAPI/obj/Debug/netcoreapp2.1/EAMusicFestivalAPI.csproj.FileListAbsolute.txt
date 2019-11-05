@@ -1,0 +1,13 @@
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\bin\Debug\netcoreapp2.1\EAMusicFestivalAPI.deps.json
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\bin\Debug\netcoreapp2.1\EAMusicFestivalAPI.runtimeconfig.json
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\bin\Debug\netcoreapp2.1\EAMusicFestivalAPI.runtimeconfig.dev.json
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\bin\Debug\netcoreapp2.1\EAMusicFestivalAPI.dll
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\bin\Debug\netcoreapp2.1\EAMusicFestivalAPI.pdb
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.csproj.CoreCompileInputs.cache
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.RazorAssemblyInfo.cache
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.RazorAssemblyInfo.cs
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.AssemblyInfoInputs.cache
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.AssemblyInfo.cs
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.RazorTargetAssemblyInfo.cache
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.dll
+D:\Krishna - Work\Interviews\EAMusicFestival\EAMusicFestivalAPI\EAMusicFestivalAPI\obj\Debug\netcoreapp2.1\EAMusicFestivalAPI.pdb
