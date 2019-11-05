@@ -29,6 +29,16 @@ namespace EAMusicFestivalAPI
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<IMusicFestivalService, MusicFestivalService>();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder
+                        //.WithOrigins("http://localhost:4200/") //Will specify the consumer origin once we build it
+                        .AllowAnyOrigin() //Until we are developing and testing API without the client app, lets enable this
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
