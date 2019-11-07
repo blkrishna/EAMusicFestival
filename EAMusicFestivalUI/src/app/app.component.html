@@ -1,19 +1,24 @@
-<!--The content below is only a placeholder and can be replaced.-->
 <div style="text-align:center">
   <h1>
     {{ title }}!
   </h1>
 </div>
 <div *ngIf="dataRetrieved; else noDataRetrieved">
-  <div *ngFor="let data of eadata" style="width:25%;">
-    <div *ngFor="let band of data.bands">
-      <div class="d-flex flex-column">
-        <div class="d-flex justify-content-start">{{band.recordLabel}}</div>
-        <div class="d-flex justify-content-center">{{band.name}}</div>
-        <div class="d-flex justify-content-end">{{ data.name }}</div>
-      </div>
-    </div>
-  </div>
+  <ul>
+    <li *ngFor="let recordLabel of recordLabels">
+      {{recordLabel.name}}
+      <ul>
+        <li *ngFor="let band of recordLabel.bands">
+          {{band.name}}
+          <ul>
+            <li *ngFor="let festival of band.festivals">
+              {{festival}}
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
 </div>
 <ng-template #noDataRetrieved>
   No data is retrieved. Please try again.
